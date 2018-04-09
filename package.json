@@ -1,0 +1,31 @@
+{
+  "name": "browserlist-config-ebay",
+  "version": "1.0.0",
+  "description": "The Browserlist config for eBay.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eBay/browserlist-config-ebay"
+  },
+  "keywords": [
+    "browsers",
+    "browserlist",
+    "config",
+    "ebay"
+  ],
+  "author": "Sean Gates <oregonwebdev@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eBay/browserlist-config-ebay/issues"
+  },
+  "homepage": "https://github.com/eBay/browserlist-config-ebay#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-ebay": "^1.0.0"
+  }
+}
