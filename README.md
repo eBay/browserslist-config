@@ -1,15 +1,15 @@
-# browserlist-config-ebay
+# browserslist-config-ebay
 
-This package provides Browserlist rules as a shared NPM module.
+This package provides Browserslist rules as a shared NPM module.
 
 ## Usage
 
 ```sh
-yarn add browserlist-config-ebay
+yarn add browserslist-config-ebay
 ```
 
 or
 
 ```sh
-npm install browserlist-config-ebay
+npm install browserslist-config-ebay
 ```

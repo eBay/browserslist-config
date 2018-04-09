@@ -1,16 +1,16 @@
 {
-  "name": "@ebay/browserlist-config-ebay",
+  "name": "@ebay/browserslist-config",
   "version": "1.0.0",
-  "description": "The Browserlist config for eBay.",
+  "description": "The Browserslist config for eBay.",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/eBay/browserlist-config-ebay"
+    "url": "https://github.com/eBay/browserslist-config"
   },
   "keywords": [
     "browsers",
-    "browserlist",
+    "browserslist",
     "config",
     "ebay"
   ],
@@ -18,9 +18,9 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eBay/browserlist-config-ebay/issues"
+    "url": "https://github.com/eBay/browserslist-config/issues"
   },
-  "homepage": "https://github.com/eBay/browserlist-config-ebay#readme",
+  "homepage": "https://github.com/eBay/browserslist-config#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
