@@ -20,6 +20,6 @@ You can reference the [shared config](https://github.com/browserslist/browsersli
 
 ```json
   "browserslist": [
-    "extends @ebay/browserslist-config
+    "extends @ebay/browserslist-config"
   ]
 ```
