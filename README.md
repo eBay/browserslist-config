@@ -5,13 +5,13 @@ This package provides [Browserslist](https://github.com/browserslist/browserslis
 ## Installing
 
 ```sh
-yarn add @ebay/browserslist-config
+yarn add @ebay/browserslist-config --dev
 ```
 
 or
 
 ```sh
-npm install @ebay/browserslist-config
+npm install @ebay/browserslist-config --save-dev
 ```
 
 ## Usage
