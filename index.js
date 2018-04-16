@@ -3,7 +3,7 @@ module.exports = [
     "Firefox >= 48",
     "Safari >= 6",
     "Edge >= 12",
-    "IE >= 11",
+    "IE >= 9",
     "Opera 47-48",
     "ChromeAndroid >= 38",
     "ios_saf >= 7",
