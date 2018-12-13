@@ -1,12 +1,13 @@
 module.exports = [
-    "Chrome >= 49",
-    "Firefox >= 48",
-    "Safari >= 6",
-    "Edge >= 12",
-    "IE >= 11",
-    "Opera 47-48",
-    "ChromeAndroid >= 38",
-    "ios_saf >= 7",
-    "ie_mob >= 10",
-    "Android >= 3"
+    'defaults',
+    'Chrome >= 49',
+    'Firefox >= 48',
+    'Safari >= 9',
+    'Edge >= 12',
+    'IE >= 11',
+    'Opera 47-48',
+    'ChromeAndroid >= 38',
+    'ios_saf >= 9',
+    'Android >= 3',
+    'not dead'
 ];
