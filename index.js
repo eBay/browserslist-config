@@ -5,9 +5,9 @@ module.exports = [
     'Safari >= 10',
     'Edge >= 18',
     'IE >= 11',
-    'Opera 47-48',
+    'Opera >= 72',
     'ChromeAndroid >= 68',
     'ios_saf >= 9',
-    'Android >= 3',
+    'Android >= 4',
     'not dead'
 ];
