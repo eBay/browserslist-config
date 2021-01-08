@@ -3,7 +3,9 @@
   "version": "1.0.1",
   "description": "The Browserslist config for eBay.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/eBay/browserslist-config"
@@ -25,7 +27,9 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
+    "browserslist": "^4.16.1",
     "eslint": "^4.19.1",
-    "eslint-config-ebay": "^1.0.0"
+    "eslint-config-ebay": "^1.0.0",
+    "jest": "^26.6.3"
   }
 }
