@@ -1,0 +1,23 @@
+# Automatically ignored per:
+# https://www.npmjs.org/doc/developers.html#Keeping-files-out-of-your-package
+#
+# .*.swp
+# ._*
+# .DS_Store
+# .git
+# .hg
+# .lock-wscript
+# .svn
+# .wafpickle-*
+# CVS
+# npm-debug.log
+# node_modules
+
+*.gz
+*.tgz
+
+test/*
+pids
+logs
+coverage
+.eslintrc
