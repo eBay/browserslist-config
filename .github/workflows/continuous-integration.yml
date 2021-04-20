@@ -1,7 +1,7 @@
 name: "@ebay/browserslist-config"
 on: [push]
 jobs:
-  unit-tests:
+  linting:
     name: Linting
     runs-on: ubuntu-latest
 
@@ -13,7 +13,7 @@ jobs:
       - name: Execute tests
         run: yarn lint
 
-  linting:
+  unit-tests:
     name: Unit tests
     runs-on: ubuntu-latest
 
