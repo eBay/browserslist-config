@@ -9,8 +9,3 @@ it('should not contain invalid queries', () => {
     const result = browserslist(config);
     expect(result).toBeTruthy();
 });
-
-it('should not support any IE', () => {
-    const result = browserslist(config);
-    expect(result).not.toContain('ie 11');
-});

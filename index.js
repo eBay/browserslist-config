@@ -1,6 +1,4 @@
 module.exports = [
-    'defaults',
-    'not IE 11',
     'Chrome >= 78',
     'Firefox >= 78',
     'Safari >= 10',
