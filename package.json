@@ -1,6 +1,6 @@
 {
   "name": "@ebay/browserslist-config",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "The Browserslist config for eBay.",
   "main": "index.js",
   "scripts": {
