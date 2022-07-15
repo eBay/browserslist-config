@@ -5,6 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+
+- Reflect changes of Browser Policy July 2022 (Edge, Opera, and Safari mobile)
+
+## [2.2.0]
+
+### Changed
+
+- Reflect changes of Browser Policy Feb 2022 (Edge & Opera)
+
+## [2.1.0]
+
+### Changed
+
+- Reflect changes of Browser Policy Dec 2021 (Chrome, Edge, & Opera)
+
 ## [2.0.2]
 
 ### Fixed
