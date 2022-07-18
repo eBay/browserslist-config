@@ -3,8 +3,8 @@ module.exports = [
     'Firefox >= 78',
     'Safari >= 10',
     'Edge 18',
-    'Edge >= 95',
-    'Opera >= 80',
+    'Edge >= 97',
+    'Opera >= 82',
     'ChromeAndroid >= 75',
-    'ios_saf >= 9'
+    'ios_saf >= 10'
 ];
