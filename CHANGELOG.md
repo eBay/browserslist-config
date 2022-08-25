@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.4.1]
+
+### Fixed
+
+- Security fix for json-schema vulnerabilities
+
+## [2.4.0]
+
+### Changed
+
+- Reflect changes of Browser Policy Dec 2021 (Edge, Opera, Chroma Android, and Safari mobile)
+
+## [2.3.0]
+
 ### Changed
 
 - Reflect changes of Browser Policy July 2022 (Edge, Opera, and Safari mobile)
