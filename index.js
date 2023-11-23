@@ -1,9 +1,9 @@
 module.exports = [
-    'Chrome >= 87',
+    'Chrome >= 93',
     'Firefox >= 78',
-    'Safari >= 11',
-    'Edge >= 103',
-    'Opera >= 89',
-    'ChromeAndroid >= 83',
+    'Safari >= 12',
+    'Edge >= 109',
+    'Opera >= 95',
+    'ChromeAndroid >= 99',
     'ios_saf >= 12'
 ];
