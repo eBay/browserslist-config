@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.13.0]
+
+### Changed
+
+- Reflect changes of Browser Policy Q4 2025
+
 ## [2.12.0]
 
 ### Changed
